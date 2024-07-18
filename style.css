@@ -1,0 +1,166 @@
+body
+{
+    background-image: url("https://images.designtrends.com/wp-content/uploads/2016/03/29115235/Abstract-Plain-White-Wallpaper-.jpg");
+}
+.header
+{
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-family: "Bebas Neue", sans-serif;
+    font-style: normal;
+    font-size: 60px;
+    width: auto;
+    height: 60px;
+    border-radius: 50px;
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+    margin-left: 10px;
+    margin-top:40px;
+    margin-bottom:10px;
+    text-align:center;
+    margin:auto;
+}
+.description
+{
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top:20px;
+    padding-right:10px;
+    font-family: "Lucida Console", "Courier New";
+    font-style: normal;
+    font-size: 20px;
+    margin-top:-5px;
+    margin-bottom:10px;
+}
+.navbar li
+{
+    list-style:none;
+    float:left;
+    text-decoration: none;
+    font-family: "Bebas Neue", sans-serif;
+    font-style: normal;
+}
+.navbar li a
+{
+    cursor:pointer;
+    text-decoration: none;
+    color:black;
+    font-family: "Bebas Neue", sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    height: 60px;
+    padding-left:5px;
+    padding-top:5px;
+    padding-right:5px;
+    padding-bottom:5px;
+    margin-left: 10px;
+    border-style: outset;
+}
+.navbar li a:hover
+{
+    color:blue;
+}
+.navbar ul
+{
+    overflow:auto;
+    padding-right:20px;
+    padding-top: 20px;
+    padding-bottom:20px;
+    border-top:10px double black;
+    border-bottom:10px double black;
+}
+.subheader
+{
+    color:black;
+    font-family: "Bebas Neue", sans-serif;
+    font-size:30px;
+    padding-left:20px;
+    padding-top:4px;
+    margin-bottom:10px;
+    margin-top:10px;
+    margin-left:10px;
+    border-radius: 50px;
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+    width: auto;
+}
+.text
+{
+    color:black;
+    font-family: "Oswald", sans-serif;
+    font-size:22px;
+    padding-left:15px;
+    margin-top:10px;
+    padding-bottom:10px;
+}
+#about
+{
+    width:110px;
+}
+#location
+{
+    width:215px;
+    clear:both;
+}
+#survey
+{
+    width:130px;
+}
+#surveyresult
+{
+    width:170px;
+}
+#abouttext
+{
+    border-bottom: 10px double black;
+}
+#locationtext
+{
+    float:left;
+    width:70%;
+}
+#surveytext
+{
+    border-bottom: 10px double black;
+}
+#surveyresulttext
+{
+    float:left;
+    width:70%;
+}
+.image
+{
+    float:right;
+    clear:right;
+    width:400px;
+}
+.imagetext
+{
+    padding-right:auto;
+    clear:both;
+    float:right;
+    font-family: "Oswald", sans-serif;
+    font-size:15px;
+}
+#mumbaidistrictpic
+{
+    width:25%;
+}
+#surveypiechartimage
+{
+    margin-right:50px;
+    margin-top:-10px;
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+}
+#surveypiechartimagetext
+{
+    padding:55px;
+    margin-top: -60px
+}
