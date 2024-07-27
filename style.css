@@ -129,6 +129,14 @@ body
     float:left;
     width:60%;
 }
+#impact
+{
+    width:265px;
+}
+#problemstext2
+{
+    border-bottom: 10px double black;
+}
 .image
 {
     float:right;
