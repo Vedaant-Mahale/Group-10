@@ -1,12 +1,11 @@
-body
-{
+body {
     background-image: url("https://images.designtrends.com/wp-content/uploads/2016/03/29115235/Abstract-Plain-White-Wallpaper-.jpg");
 }
-.header
-{
-    padding-top:10px;
-    padding-bottom:10px;
-    margin:auto;
+
+.header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: auto;
     font-family: "Bebas Neue", sans-serif;
     font-style: normal;
     font-size: 35px;
@@ -15,69 +14,69 @@ body
     border-bottom: 4px solid black;
     border-left: 4px solid black;
     border-right: 4px solid black;
-    text-align:center;
+    text-align: center;
 }
-.description
-{
+
+.description {
     padding-left: 10px;
     padding-bottom: 10px;
-    padding-top:20px;
-    padding-right:10px;
+    padding-top: 20px;
+    padding-right: 10px;
     font-family: "Lucida Console", "Courier New";
     font-style: normal;
     font-size: 20px;
-    margin-top:-5px;
-    margin-bottom:10px;
+    margin-top: -5px;
+    margin-bottom: 10px;
 }
-.navbar li
-{
-    padding-top:20px;
-    padding-bottom:20px;
-    list-style:none;
-    float:left;
+
+.navbar li {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    list-style: none;
+    float: left;
     text-decoration: none;
     font-family: "Bebas Neue", sans-serif;
     font-style: normal;
 }
-.navbar li a
-{
-    cursor:pointer;
+
+.navbar li a {
+    cursor: pointer;
     text-decoration: none;
-    color:black;
+    color: black;
     font-family: "Bebas Neue", sans-serif;
     font-style: normal;
     font-size: 20px;
     height: 60px;
-    padding-left:5px;
-    padding-top:5px;
-    padding-right:5px;
-    padding-bottom:5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
     margin-left: 10px;
     border-style: outset;
 }
-.navbar li a:hover
-{
-    color:blue;
+
+.navbar li a:hover {
+    color: blue;
 }
-.navbar ul
-{
-    overflow:auto;
-    padding-right:20px;
+
+.navbar ul {
+    overflow: auto;
+    padding-right: 20px;
     padding-top: 20px;
-    padding-bottom:20px;
-    border-top:10px double black;
-    border-bottom:10px double black;
+    padding-bottom: 20px;
+    border-top: 10px double black;
+    border-bottom: 10px double black;
 }
-.subheader
-{
-    color:black;
+
+.subheader {
+    color: black;
     font-family: "Bebas Neue", sans-serif;
-    font-size:30px;
-    padding-left:20px;
-    padding-top:4px;
-    margin-bottom:10px;
-    margin-top:10px;
-    margin-left:10px;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-top: 4px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
     border-radius: 50px;
     border-top: 4px solid black;
     border-bottom: 4px solid black;
@@ -85,90 +84,212 @@ body
     border-right: 4px solid black;
     width: auto;
 }
-.text
-{
-    color:black;
+
+.text {
+    color: black;
     font-family: "Oswald", sans-serif;
-    font-size:22px;
-    padding-left:15px;
-    margin-top:10px;
-    padding-bottom:10px;
+    font-size: 22px;
+    padding-left: 15px;
+    margin-top: 10px;
+    padding-bottom: 10px;
 }
-#about
-{
-    width:110px;
+
+#about {
+    width: 110px;
 }
-#location
-{
-    width:215px;
-    clear:both;
+
+#location {
+    width: 215px;
+    clear: both;
 }
-#survey
-{
-    width:130px;
+
+#survey {
+    width: 130px;
 }
-#surveyresult
-{
-    width:170px;
+
+#surveyresult {
+    width: 170px;
 }
-#abouttext
-{
+
+#tempscan {
+    Width: 203px;
+}
+
+#abouttext {
     border-bottom: 10px double black;
 }
-#locationtext
-{
-    float:left;
-    width:60%;
+
+#locationtext {
+    float: left;
+    width: 60%;
 }
-#surveytext
-{
+
+#surveytext {
     border-bottom: 10px double black;
 }
-#surveyresulttext
-{
-    float:left;
-    width:60%;
+
+#surveyresulttext {
+    float: left;
+    width: 60%;
 }
-#impact
-{
-    width:265px;
+
+#impact {
+    width: 265px;
 }
-#solutions
-{
-    width:300px;
+
+#solutions {
+    width: 300px;
 }
-#problemstext2
-{
+
+#problemstext2 {
     border-bottom: 10px double black;
 }
-.image
-{
-    float:right;
-    clear:right;
-    width:400px;
+
+#tempscantext {
+    float: left;
+    width: 60%;
 }
-.imagetext
-{
-    float:right;
-    padding-right:auto;
+
+#experiment {
+    width: 192px;
+}
+
+.image {
+    float: right;
+    clear: right;
+    width: 400px;
+}
+
+.imagetext {
+    float: right;
+    padding-right: auto;
     font-family: "Oswald", sans-serif;
-    font-size:15px;
+    font-size: 15px;
 }
-#mumbaidistrictpic
-{
-    width:25%;
+
+#mumbaidistrictpic {
+    width: 25%;
 }
-#mumbaidistrictpictext
-{
-}
-#surveypiechartimage
-{
-    width:25%;
+
+#mumbaidistrictpictext {}
+
+#surveypiechartimage {
+    width: 25%;
     border-top: 2px solid black;
     border-bottom: 2px solid black;
     border-left: 2px solid black;
     border-right: 2px solid black;
 }
-#surveypiechartimagetext
-{
+
+#surveypiechartimagetext {}
+
+#tempscantextimage1 {
+    float: left;
+    width: 17%;
+    margin-left: 20px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+#tempscantextimage2 {
+    float: left;
+    width: 16.2%;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    margin-left: 20px;
+}
+
+#tempscantextimagetext {
+    margin-right: 12%;
+}
+
+#experimenttext {
+    float: left;
+    width: 70%
+}
+
+#experimentimage {
+    width: 250px;
+    margin-right: 3%;
+    float: right;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+#experimentimagetext {
+    float: right;
+    margin-right: 8%;
+    clear: both;
+}
+
+#besttext {
+    width: 60%;
+    float: left;
+}
+
+#best {
+    width: 123px;
+}
+
+#bestimage {
+    float: right;
+    margin-right: 5%;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+#bestimagetext {
+    float: right;
+    clear: both;
+    margin-right: 13%;
+}
+
+#plants {
+    width: 173px;
+}
+
+#plantstext {
+    width: 60%;
+    float: left;
+}
+
+#plantsimage {
+    width: 20%;
+    margin-right: 7%;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+#plantsimagetext {
+    clear: both;
+    float: right;
+    margin-right: 14.5%;
+}
+
+#poster {
+    width: 90px;
+}
+
+#posterimage {
+    margin: auto;
+    text-align: center;
+}
+
+.border {
+    clear: both;
+    border-bottom: 10px double black;
+}
+
+#largermargin {
+    padding-top: 20px;
 }
